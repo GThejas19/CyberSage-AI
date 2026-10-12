@@ -1,0 +1,28 @@
+
+text,label
+"Your account has been suspended. Verify your account immediately.",phishing
+"Urgent action required. Confirm your bank details now.",phishing
+"Congratulations, claim your prize by clicking this link.",phishing
+"Send your password to restore your account.",phishing
+"Your package is delayed. Pay a fee to release it immediately.",phishing
+"Your bank account will close today unless you verify your details.",phishing
+"Share your OTP to receive your reward.",phishing
+"Click immediately to prevent your account from being blocked.",phishing
+"Your invoice is attached for your review.",legitimate
+"Your meeting is scheduled for tomorrow at ten.",legitimate
+"Thank you for attending today's class.",legitimate
+"Your library book is due next week.",legitimate
+"Please review the project report before Friday.",legitimate
+"Your appointment is confirmed for Monday.",legitimate
+"The college timetable has been updated.",legitimate
+"Your order has been received. Thank you for shopping with us.",legitimate
+"Your payroll document is ready for review. Sign in through the usual company portal.",legitimate
+"The campus placement orientation starts at 10 AM in the seminar hall.",legitimate
+"Please submit your assignment through the official learning portal.",legitimate
+"Your electricity bill is available in your customer account.",legitimate
+"Your subscription renewal receipt is attached.",legitimate
+"IT support requests that you share your password to avoid losing access.",phishing
+"Your account has unusual activity. Use this link to confirm your password now.",phishing
+"You have won a gift card. Pay a processing fee to claim it today.",phishing
+"Your parcel is on hold. Send your OTP to arrange delivery.",phishing
+"Immediate action required: provide your bank PIN to prevent account closure.",phishing
